@@ -27,7 +27,7 @@ World Intellectual Property Organization
 Official government statistics (Nigeria)
 Peer-reviewed academic sources
 
-- Tools Used:
+- Tools Used: 
 Desk research (qualitative market intelligence)
 Data interpretation (charts, strategy tables)
 
